@@ -1,0 +1,4 @@
+nombre,crisly
+apellido,gonzalez
+profesion,ing
+edad,23

@@ -1,0 +1,4 @@
+nombre,nathalie
+apellido,Rojas
+profesion,estudiante
+edad,20
